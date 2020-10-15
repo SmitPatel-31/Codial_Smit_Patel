@@ -1,0 +1,20 @@
+#backg {
+  background: linear-gradient(to right, #2e3192 0%, #1bffff 100%);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  text-align: end; }
+  #backg #liste {
+    text-align: start;
+    list-style: none;
+    display: flex;
+    margin-left: 70vw;
+    display: flex;
+    flex-direction: row-reverse; }
+    #backg #liste a {
+      color: white;
+      font-size: 20px;
+      text-decoration: none;
+      margin: 2vw;
+      text-align: right;
+      padding: 2px; }

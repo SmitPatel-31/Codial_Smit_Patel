@@ -1,0 +1,31 @@
+#backg{
+    background:linear-gradient(to right, rgb(46, 49, 146) 0%, rgb(27, 255, 255) 100%);
+
+    color: white;
+    display: flex;
+    flex-direction:row;
+    text-align: end;
+    #liste{
+        text-align:start;
+        list-style: none;
+        display: flex;
+        
+        margin-left:70vw;
+        display: flex;
+        flex-direction:row-reverse;
+        
+
+        a{
+            color: white;
+            font-size: 20px;
+ 
+
+            text-decoration: none;
+            margin:2vw;
+            text-align: right;
+            padding: 2px;
+
+
+        }
+    }
+}
